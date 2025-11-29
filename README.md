@@ -54,7 +54,6 @@ Most of my work revolves around Python, ML model training, and mathematical prob
 - 📈 **Data Analysis Notebooks** → EDA & visualizations  
 - 🔢 **Math + Python Scripts** → Algorithms & numerical methods projects  
 
-*(Add links once your repositories are ready!)*
 
 ---
 
